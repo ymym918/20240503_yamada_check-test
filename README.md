@@ -4,7 +4,7 @@
 
 ＜Dockerビルド＞
 
-１．　git clone 　git@github.com:ymym918/20240503_yamada_check-test.git
+１．　git clone 　gh repo clone ymym918/20240503_yamada_check-test
 
 ２．　docker-compose up -d —build
 
