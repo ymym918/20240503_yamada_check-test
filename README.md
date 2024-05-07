@@ -36,6 +36,6 @@
 
 URL
 
-⚫︎開発環境　　　　　　　　：http://localhost/
+⚫︎開発環境　　　：http://localhost/
 
 ⚫︎phpMyadmin　：http://localhost:8080/
