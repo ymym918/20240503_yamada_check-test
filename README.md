@@ -2,8 +2,7 @@
 
 ＃環境構築
 ＜Dockerビルド＞
-例：git clone git@github.com:coachtech-material/laravel-docker-template.git
-１．　git clone リンク　　　　　　←GitHubで作成したリンクを貼り付ける！
+１．　git clone 　git@github.com:ymym918/20240503_yamada_check-test.git
 ２．　docker-compose up -d —build
 
 ＊　MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせて
